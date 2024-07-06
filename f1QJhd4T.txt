@@ -1,5 +1,5 @@
 #EXTINF:-1 group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg"
-#EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="#####♦LINK PUNYA B-INAL22♦#####", SAWER DONK BOS VIA DANA 0812-2375-2275
+#EXTINF:-1 tvg-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-logo="https://jihulab.com/iptv2571913/inal-iptv/Euro2024/-/raw/main/LOGO_TELE.jpg" group-title="#####♦LINK PUNYA CccC♦#####", SAWER DONK BOS VIA DANA 0812-2375-2275
 https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/welcome-to-b-inal.ts
 
 
